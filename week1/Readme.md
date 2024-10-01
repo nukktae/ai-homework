@@ -1,8 +1,8 @@
-# Assignment: Week 1 - Book 1 : 스타터 코드 받기
+# 스타터 코드 받기
 
-## Name: Anu
+## 이름: Anu
 
-## Programming Language: Python
+## 프로그래밍 언어: Python
 
 ### Description:
 This assignment demonstrates how to print "Hello world!" using Python. The code was executed in PyCharm.
