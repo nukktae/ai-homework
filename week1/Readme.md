@@ -10,3 +10,6 @@ This assignment demonstrates how to print "Hello world!" using Python. The code 
 ### Code:
 ```python
 print("Hello world!")
+```
+
+![Screenshot of Hello World](https://github.com/nukktae/ai-homework/blob/main/week1/helloworld.png)
